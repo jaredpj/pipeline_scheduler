@@ -1,11 +1,12 @@
 name: pipeline
 
 dependencies:
-- python = 3.7
+- python
 - pandas
-- streamlit
-- streamlit_autorefresh
-- calendar
-- datetime
+- pip
 - git
-- tim
+- pip:
+  - streamlit
+  - streamlit_autorefresh
+  - datetime
+  - time

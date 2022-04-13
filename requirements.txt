@@ -1,0 +1,6 @@
+pandas
+git
+streamlit
+streamlit_autorefresh
+datetime
+time
