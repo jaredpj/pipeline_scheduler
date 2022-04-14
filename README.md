@@ -9,7 +9,7 @@ The user should modify the config.json to add new projects and job schedules.
 From there, they can select the project that they want to view and see the current status of jobs running. Future versions will incorporate the ability to view full log histories. 
 
 ## Directories
-.
+<!-- .
 ├── build                   # Compiled files (alternatively `dist`)
 ├── pipelines               # Pipeline scripts 
 ├── src                     # Source files (alternatively `lib` or `app`)
@@ -18,4 +18,4 @@ From there, they can select the project that they want to view and see the curre
 ├── LICENSE
 ├── LICENSE
 ├── LICENSE
-└── README.md
+└── README.md -->
