@@ -1,0 +1,6 @@
+[{
+    "Schedules":{
+        "Stonks Data Pipeline":{"Day": "Wednesday", "Time": "12:25:00"}
+        , "Another Pipeline":{"Day":"Tuesday", "Time":"12:31:00"}
+    }
+}]

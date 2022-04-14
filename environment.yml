@@ -9,4 +9,5 @@ dependencies:
   - streamlit
   - streamlit_autorefresh
   - datetime
-  - time
+  #- time
+  - alpha_vantage
