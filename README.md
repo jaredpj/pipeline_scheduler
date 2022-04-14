@@ -1,5 +1,5 @@
 # pipeline_scheduler
-Streamlit app to automate pipeline job schedules.
+Streamlit app to automate pipeline job schedules. At present, this is a work in progress (WIP).
 
 ## Purpose
 This is less of an application/report and more of an app that leverages the autorefresh functionality of Streamlit to create an easily modifiable data pipeline job scheduler.
