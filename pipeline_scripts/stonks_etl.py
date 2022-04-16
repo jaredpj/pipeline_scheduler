@@ -10,7 +10,8 @@ from alpha_vantage.timeseries import TimeSeries
 # @sched.scheduled_job('interval', minutes=60, timezone='America/Chicago')
 # def scheduled_job():
 
-key = pd.read_fwf('av_api_key.txt')
+key = pd.read_csv('av_api_key.txt', header=None)[0]
+key = str(key.values).strip("[").strip("]").strip("'")
 
 av_api_key = key
 
